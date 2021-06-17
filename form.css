@@ -1,0 +1,38 @@
+body
+{
+	background-color:#00bfbf;
+}
+#body_header
+{
+	width:auto;
+	margin:0px auto;
+	text-align:center;
+	font-size:24px;
+}
+form {
+  max-width: 310px;
+  margin: 11px auto;
+  padding: 10px 20px;
+  background: #f4f7f8;
+  border-radius: 11px;
+}
+h1 {
+  text-align: center;
+}
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="time"],
+select {
+  border: none;
+  font-size: 17px;
+  height: auto;
+  padding: 8px;
+  width: 100%;
+  background-color: #e8eeef;
+  color: black;
+  margin-bottom: 28px;
+}
+  form {
+    max-width: 485px;
+  }
